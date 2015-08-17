@@ -23,6 +23,7 @@ mpich2	MPICH2
 mpich	MPICH
 mrbayes	MrBayes
 namd	NAMD
+nco	NCO
 netcdf	netCDF
 nwchem	NWChem
 openfoam	OpenFOAM
