@@ -14,6 +14,7 @@ gerris	Gerris
 gromacs	GROMACS
 gsl	GSL
 HDF5	hdf5
+hmmer	HMMER
 hypre	Hypre
 java	Java
 lis	Lis
@@ -28,11 +29,13 @@ netcdf	netCDF
 nwchem	NWChem
 openfoam	OpenFOAM
 openmpi	OpenMPI
+papi	PAPI
 paraview	Paraview
 phyml	PhyML
 python	Python
 python27	Python
 python34	Python
+root	ROOT
 scalapack	ScaLAPACK
 suitesparse	SuiteSparse
 vtk	VTK
