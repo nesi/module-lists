@@ -27,6 +27,7 @@ namd	NAMD
 nco	NCO
 netcdf	netCDF
 nwchem	NWChem
+octave	Octave
 openfoam	OpenFOAM
 openmpi	OpenMPI
 papi	PAPI
