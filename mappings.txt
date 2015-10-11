@@ -35,4 +35,5 @@ python27	Python
 python34	Python
 scalapack	ScaLAPACK
 suitesparse	SuiteSparse
+viennaRNA	ViennaRNA
 vtk	VTK
