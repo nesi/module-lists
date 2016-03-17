@@ -17,6 +17,7 @@ HDF5	hdf5
 hmmer	HMMER
 hypre	Hypre
 java	Java
+lammps	LAMMPS
 lis	Lis
 llvm	LLVM
 metis	METIS
