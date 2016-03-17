@@ -34,6 +34,7 @@ openmpi	OpenMPI
 papi	PAPI
 paraview	Paraview
 phyml	PhyML
+plink	PLINK
 python	Python
 python27	Python
 python34	Python
