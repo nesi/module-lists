@@ -17,6 +17,7 @@ HDF5	hdf5
 hmmer	HMMER
 hypre	Hypre
 java	Java
+jmodeltest	JModelTest
 lammps	LAMMPS
 lis	Lis
 llvm	LLVM
@@ -33,6 +34,7 @@ openfoam	OpenFOAM
 openmpi	OpenMPI
 papi	PAPI
 paraview	Paraview
+pgi	PGI
 phyml	PhyML
 plink	PLINK
 python	Python
