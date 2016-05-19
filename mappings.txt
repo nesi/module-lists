@@ -17,7 +17,8 @@ HDF5	hdf5
 hmmer	HMMER
 hypre	Hypre
 java	Java
-jmodeltest	JModelTest
+jmodeltest	jModelTest
+JModelTest	jModelTest
 lammps	LAMMPS
 lis	Lis
 llvm	LLVM
