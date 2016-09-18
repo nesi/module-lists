@@ -18,7 +18,9 @@ HDF5	hdf5
 hmmer	HMMER
 hypre	Hypre
 java	Java
-jmodeltest	jModelTest
+jmodeltest	JModelTest
+jModelTest	JModelTest
+lammps	LAMMPS
 lis	Lis
 llvm	LLVM
 metis	METIS
@@ -36,7 +38,9 @@ openssl	OpenSSL
 papi	PAPI
 paraview	Paraview
 phylip	PHYLIP
+pgi	PGI
 phyml	PhyML
+plink	PLINK
 python	Python
 python27	Python
 python34	Python
