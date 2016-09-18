@@ -1,5 +1,6 @@
 abyss	ABySS
 amber	Amber
+bamtools	BamTools
 blast	BLAST
 boost	Boost
 cmake	CMake
@@ -17,6 +18,7 @@ HDF5	hdf5
 hmmer	HMMER
 hypre	Hypre
 java	Java
+jmodeltest	jModelTest
 lis	Lis
 llvm	LLVM
 metis	METIS
@@ -30,8 +32,10 @@ nwchem	NWChem
 octave	Octave
 openfoam	OpenFOAM
 openmpi	OpenMPI
+openssl	OpenSSL
 papi	PAPI
 paraview	Paraview
+phylip	PHYLIP
 phyml	PhyML
 python	Python
 python27	Python
