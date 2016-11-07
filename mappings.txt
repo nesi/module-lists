@@ -14,7 +14,8 @@ geos	GEOS
 gerris	Gerris
 gromacs	GROMACS
 gsl	GSL
-HDF5	hdf5
+guile	Guile
+hdf5	HDF5
 hmmer	HMMER
 hypre	Hypre
 java	Java
