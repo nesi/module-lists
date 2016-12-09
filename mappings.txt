@@ -47,6 +47,7 @@ python27	Python
 python34	Python
 root	ROOT
 scalapack	ScaLAPACK
+specfem3d	SPECFEM3D
 suitesparse	SuiteSparse
 viennaRNA	ViennaRNA
 vtk	VTK
