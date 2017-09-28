@@ -49,6 +49,7 @@ root	ROOT
 scalapack	ScaLAPACK
 specfem3d	SPECFEM3D
 suitesparse	SuiteSparse
+sundials	SUNDIALS
 udunits	UDUNITS
 viennaRNA	ViennaRNA
 vtk	VTK
