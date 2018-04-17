@@ -33,6 +33,7 @@ nco	NCO
 netcdf	netCDF
 nwchem	NWChem
 octave	Octave
+octopus	Octopus
 openfoam	OpenFOAM
 openmpi	OpenMPI
 openssl	OpenSSL
